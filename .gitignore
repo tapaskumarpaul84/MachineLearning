@@ -3,3 +3,4 @@ clf.pkl
 ohe_embarked.pkl
 ohe_sex.pkl
 pipe.pkl
+train_mnist.csv
